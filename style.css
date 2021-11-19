@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(40, 136, 136);
+}
+.jumbotron {
+    background-image: url("images/grass.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    color: azure;
+  }
+
+  .row {
+    color: rgb(196, 53, 224);
+  }
+.panel {
+  color: rgb(72, 158, 45);
+}
+.col-md-5 {
+  padding-top: 30px;
+}
